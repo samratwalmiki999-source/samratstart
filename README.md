@@ -1,4 +1,5 @@
 # samratstart
 my first repository
 <br>
-Author - Samrat
+Author - Samrat (student)
+
